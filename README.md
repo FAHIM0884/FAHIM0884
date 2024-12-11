@@ -3,5 +3,5 @@
 📚 Currently pursuing a Master's degree in Computer Applications (MCA) at Kalasalingam University, Krishnankoil, India.
 
 💻 Passionate about programming and web development.
-🌱 I’m currently learning FrontEnd
+🌱 I’m currently learning Pyhton & Data Analytics.
 
